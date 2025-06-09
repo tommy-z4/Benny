@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tommy-z4.github.io/benny/sitemap.xml
